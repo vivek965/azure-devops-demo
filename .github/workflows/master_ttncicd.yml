@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ttncicd'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_812394C199E64FE785D6353381487802 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1A77D1745FB4D5A8D417A844F155A6C }}
           package: .
